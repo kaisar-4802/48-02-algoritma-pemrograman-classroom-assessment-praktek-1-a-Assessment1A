@@ -27,5 +27,5 @@ public class Nomor1{
         System.out.println("Total jam lembur: " + jamLembur);
         System.out.println("Honor lembur: " + honorLembur);
         
-    }
+     }
 }
