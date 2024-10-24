@@ -1,0 +1,28 @@
+1. Buatlah algoritma dan program Java untuk studi kasus berikut:
+1.	PT. MURAH HATI memberi besaran honor lembur kepada pegawainya berdasarkan ketentuan sebagai berikut:
+a.	Bila jam lembur sampai dengan 16 jam, maka pegawai mendapat honor lembur sebesar 10.000/jam.
+b.	Bila jam lembur lebih dari16 jam, maka pegawai mendapat honor lembur sebesar 10.000/jam untuk 16 jam pertama, sedangkan sisanya mendapatkan 15.000/jam.
+
+Buat algoritma dan program Java untuk menghitung honor lembur yang akan diterima oleh pegawai berdasarkan jam leburnya.
+
+Output program:
+
+Total jam lembur: 12
+Honor lembur:120000.0
+Total jam lembur: 20
+Honor lembur:220000.0
+
+2.	Pak Hasan memiliki 3 orang driver, yaitu: Beliau, Mereka, dan Kita. Pak Hasan ingin mencatat total omzet yang dicapai oleh setiap driver dan menentukan siapa yang memiliki omzet paling besar. Omzet dihitung berdasarkan banyaknya perjalanan (trip) yang dilalui dengan biaya per kilometer trip adalah 13.000. Buatlah rancangan algoritma dan program untuk memenuhi kebutuhan Pak Hasan.
+Output program:
+
+Masukan nama drive [Beliau/Mereka/Kita]:Beliau
+lama trip (km): 4
+Input lagi (Y/N)?: Y 
+Masukan nama drive [Beliau/Mereka/Kita]:Kita
+lama trip (km): 5
+Input lagi (Y/N)?: Y 
+Masukan nama drive [Beliau/Mereka/Kita]:Beliau
+lama trip (km): 2
+Input lagi (Y/N)?: N
+Total trip yang dilakukan driver = 11
+Omzet tertinggi diperoleh oleh Beliau dengan total Omzet = 78000 
