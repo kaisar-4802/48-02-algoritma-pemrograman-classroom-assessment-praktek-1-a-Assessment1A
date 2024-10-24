@@ -6,7 +6,6 @@ public class Nomor1{
 //     ELSE
 //         honor_lembur = (16 * 10000) + ((total_jam_lembur - 16) * 15000)
 //     END IF
-
 //     OUTPUT "Total jam lembur: " + total_jam_lembur
 //     OUTPUT "Honor lembur: " + honor_lembur
 // END
