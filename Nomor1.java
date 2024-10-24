@@ -1,7 +1,6 @@
 public class Nomor1{
     public static void main(String[] args){
-        //     INPUT total_jam_lembur
-
+//     INPUT total_jam_lembur
 //     IF total_jam_lembur <= 16 THEN
 //         honor_lembur = total_jam_lembur * 10000
 //     ELSE
