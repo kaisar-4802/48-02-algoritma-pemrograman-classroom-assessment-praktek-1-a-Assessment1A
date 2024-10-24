@@ -4,7 +4,7 @@ public class Nomor2{
     public static void main(String[] args){
           
         String driver = ("mereka");
-
+        
         switch (driver) {
             case "Beliau":
                 System.out.println(" Rp25.000");
